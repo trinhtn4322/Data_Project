@@ -8,7 +8,7 @@ The skills used in this project will include the basic skills of a **Data Engine
 + Research and build model
 
 ##### Data: Weather data, taken in real time on a website specializing in weather
-More details will be covered in **part 1**.
+More details will be covered in **part 2**.
 
 - Data after being downloaded and through a few simple processing steps will be uploaded to Data Warehouse.
 Then the data will be taken from the data warehouse for ready to analysis and processing by R
