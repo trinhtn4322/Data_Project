@@ -2,7 +2,7 @@
 ## In this part 1 we will use the necessary skills of a data engineer
 - Includes: Python, HTML understanding, ETL pipeline building, tools like: Hadoop, Spark
 
-- Some libraries I used like: requests, BeautifulSoup, csv, datetime, pathlib, os, pandas, pyspark
+- Some libraries I used like: BeautifulSoup, datetime, pathlib, os, pandas, pyspark
 
 - Data is taken directly from the web: https://www.metoffice.gov.uk/
 - Location: Ho Chi Minh City(Vietnam)
