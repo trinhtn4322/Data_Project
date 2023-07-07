@@ -1,6 +1,6 @@
 # Data_Project
 # This is a personal project about data
-#### This project will use languages specializing in data processing such as Python and CHEAP
+#### This project will use languages specializing in data processing such as Python and R
 The skills used in this project will include the basic skills of a **Data Engineer, Data Analyst, Data Science**
 #### Project consists of 3 parts
 + Collect data
