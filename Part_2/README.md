@@ -12,3 +12,5 @@
 - 'UV': This is the column containing information about the ultraviolet (UV) index. It represents the level of ultraviolet rays from the sun that day.
 - 'Wind direction': This is the column containing information about the wind direction. It denotes the direction in which the wind is blowing, for example north, south, east, west, etc.
 - 'Speed': This is a column containing wind speed information in units of measurement such as km/h (kilometers per hour) or mph (miles per hour). It represents the strength and weakness of the wind that day.
+
+***At first I made the assumption that this was a Time Series Forecasting problem. However, after doing the analysis steps, I think it would be better to do a classification problem***
